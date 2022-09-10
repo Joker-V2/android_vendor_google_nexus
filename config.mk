@@ -6,5 +6,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PixelThemesStub \
     PixelRecentsProvider \
+    NexusLauncherOverlay \
     NexusLauncherRelease \
     WallpaperPickerGoogleRelease
